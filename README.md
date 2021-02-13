@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fabiomorea
-- 👀 I’m interested in datascience to support the sustainability. 
-- 🌱 I’m currently learning py & basic ml
-- 💞️ I’m looking to collaborate on basic data science
-- 📫 How to reach me at fabio.morea@gmail.com
+- 👋 Hi, I’m @fabiomorea. 
+- 👀 I’m interested in datascience to support the sustainability transition. 
+- 🌱 I’m currently learning py & basic ml. Focusing on accessing and preparing data for analysis. 
+- 💞️ I’m looking to collaborate on sustainability projects
+- 📫 You can reach me at fabio.morea@gmail.com
 
 <!---
 fabiomorea/fabiomorea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
